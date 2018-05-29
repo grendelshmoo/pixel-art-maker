@@ -25,6 +25,7 @@
     "browserify": "^16.2.2",
     "live-server": "^1.2.0",
     "run-all": "^1.0.1",
-    "watch": "^1.0.2"
+    "watch": "^1.0.2",
+    "watchify": "^3.11.0"
   }
 }

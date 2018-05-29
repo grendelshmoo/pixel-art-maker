@@ -1,0 +1,28 @@
+.paper {
+  display: grid;
+  grid-template-columns: 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px;
+  grid-gap: 2px;
+  background-color: pink;
+  border: 1px solid black;
+  justify-content: center;
+  margin: 0 auto;
+  width: 500px;
+}
+
+.pixel {
+  background-color: white;
+  width: 40px;
+  height: 40px;
+}
+
+.palette {
+  display: flex;
+  justify-content: center;
+}
+
+.colorSelect {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border: 2px solid black;
+}
